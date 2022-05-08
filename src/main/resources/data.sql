@@ -1,0 +1,10 @@
+INSERT INTO task(id, name, description,category, date ) VALUES (1, 'Podłoga', 'Odkurzanie i mopowanie', 'DOM', '2022-05-15');
+INSERT INTO task(id, name, description,category, date) VALUES (2, 'Okna', 'Mycie okien i ram', 'DOM', '2022-05-10');
+INSERT INTO task(id, name, description,category, date) VALUES (3, 'Ogród', 'Przycinanie i karczowanie', 'OGRÓD', '2022-05-22');
+INSERT INTO task(id, name, description,category, date) VALUES (4, 'Samochód', 'Oddanie do posezonowago mycia', 'SAMOCHÓD', '2022-05-10');
+INSERT INTO task(id, name, description,category, date) VALUES (5, 'Zakupy', 'Zakupy na cały tydzień', 'DOM', '2022-05-10');
+INSERT INTO task(id, name, description,category, date) VALUES (6, 'Urodziny', 'Zamówić tort', 'DOM', '2022-05-31');
+INSERT INTO task(id, name, description,category, date) VALUES (7, 'Thermomix', 'Zapłacić ratę', 'DOM', '2022-05-10');
+INSERT INTO task(id, name, description,category, date) VALUES (8, 'Komputer', 'Zamówić kartę graficzną', 'DOM', '2022-05-18');
+INSERT INTO task(id, name, description,category, date) VALUES (9, 'Komórka', 'Zapłacić rachunek', 'DOM', '2022-05-10');
+INSERT INTO task(id, name, description,category, date) VALUES (10, 'TV', 'Zamówić HBO Go', 'DOM', '2022-05-10');
